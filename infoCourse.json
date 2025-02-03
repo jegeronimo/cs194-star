@@ -1,7 +1,7 @@
 {
-  "uuid": "REPLACE ME WITH A VALID UUID by running uuidgen in a shell",
-  "name": "CS170",
-  "title": "Efficient Algorithms and Intractable Problems",
+  "uuid": "edca2362-4165-47da-81f8-7005d1466991",
+  "name": "DATA C100",
+  "title": "Principles and Techniques of Data Science",
   "options": {
     "useNewQuestionRenderer": true
   },
